@@ -1,0 +1,1 @@
+const even = (..._numbers) =>
